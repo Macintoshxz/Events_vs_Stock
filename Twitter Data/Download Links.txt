@@ -1,0 +1,11 @@
+ipad.tsv
+
+http://tapi.cs.iit.edu/export/ipad.tsv.zip
+
+iphone2009.tsv
+
+http://tapi.cs.iit.edu/export/iphone2009.tsv.zip
+
+SentiWordNet 3.0
+
+http://sentiwordnet.isti.cnr.it/

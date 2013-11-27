@@ -33,7 +33,7 @@ def print_output_file(a_list, output_file_name):
         except:
             pass
 
-# read file, the file name is 'ipad_tweets.tsv' when we first downloaded from Aron,
+# read file, the file name is 'ipad.tsv' when we first downloaded from Aron,
 # we changed it to 'all_tweets.tsv'
 with open('all_tweets.tsv', mode='r', encoding='utf8') as tsv:
     for line in tsv:
